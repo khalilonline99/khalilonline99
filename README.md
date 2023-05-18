@@ -1,3 +1,2 @@
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working with MERN Stack
+- 🌱 I’m currently building with MERN
 - 📫 available to hire

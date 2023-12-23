@@ -1,2 +1,2 @@
-- 🌱 I’m currently building with MERN
+- Contact:
 - 📫 khalilonline99@gmail.com
